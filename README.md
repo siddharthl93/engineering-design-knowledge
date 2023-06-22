@@ -15,7 +15,7 @@ sentences = patent_text.getPatentText(<Patent Number in String Format>)
 ```
 *The patent number can be identified as follows.*
 
-![image](https://github.com/siddharthl93/patent-kgex/assets/46587513/17a61e1e-33e0-4865-a140-8230d37ec86a)
+![image](https://github.com/siddharthl93/patent-kgex/assets/46587513/3460a06d-21e7-4740-ada1-8f07694e5b46)
 
 *Image Source*----[Modular wall climbing robot with transition capability, Google Patents](https://patents.google.com/patent/US7520356 "Google Patents") 
 
