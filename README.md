@@ -58,8 +58,9 @@ print(knowledge[0])
 ### Output: 
 *Sorry, no GPU is available! Processing will be performed in normal time.*
 
-*100%|████████████████████████████████████████████████████████████| 5/5 [00:11<00:00,  2.38s/it] 
-{'sentence': 'The present invention is a mobile robot generally including a first suction module, a second suction module and a hinge assembly pivotably connecting the suction modules together.', 'entities': ['the suction modules', 'a hinge assembly', 'a first suction module', 'the present invention', 'a second suction module', 'a mobile robot'], 'facts': [['the present invention', 'is', 'a mobile robot'], ['a mobile robot', 'generally including', 'a first suction module'], ['a mobile robot', 'generally including', 'a second suction module'], ['a mobile robot', 'generally including', 'a hinge assembly'], ['a hinge assembly', 'pivotably connecting', 'the suction modules']]}*
+*100%|████████████████████████████████████████████████████████████| 5/5 [00:11<00:00,  2.38s/it]* 
+
+*{'sentence': 'The present invention is a mobile robot generally including a first suction module, a second suction module and a hinge assembly pivotably connecting the suction modules together.', 'entities': ['the suction modules', 'a hinge assembly', 'a first suction module', 'the present invention', 'a second suction module', 'a mobile robot'], 'facts': [['the present invention', 'is', 'a mobile robot'], ['a mobile robot', 'generally including', 'a first suction module'], ['a mobile robot', 'generally including', 'a second suction module'], ['a mobile robot', 'generally including', 'a hinge assembly'], ['a hinge assembly', 'pivotably connecting', 'the suction modules']]}*
 
 A note is given in the above output that GPU is not available. As the models used to extract design knowledge demand hardware support, it is recommended to use these in a GPU environment. If GPU is available, the package will automatically utilise the hardware support.
 
