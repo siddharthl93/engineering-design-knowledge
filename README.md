@@ -13,6 +13,8 @@ from design_kgex import patent_text
 
 sentences = patent_text.getPatentText(<Patent Number in String Format>)
 ```
+Upon importing the module, necessary models will be downloaded.
+
 *The patent number can be identified as follows.*
 
 ![image](./patent_number.JPG)
