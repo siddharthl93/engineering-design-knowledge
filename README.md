@@ -1,10 +1,18 @@
 # Short guide to using the **[design_kgex](https://pypi.org/project/design-kgex/ "design_kgex")** package that is published in PyPI.
 
+Copyright - L. Siddharth, DDI, SUTD.
+
+Based on the following research:
+
+Siddharth, L., Luo, J., 2024. Engineering Design Knowledge Graphs from Patented Artefact Descriptions for Retrieval-Augmented Generation in the Design Process.
+https://arxiv.org/abs/2307.06985
+
 ### Installation: Please run the following command in terminal.
 ```
 pip install design_kgex
 ```
 
+Note: Please ensure spaCy 3.6 is installed. The package does not support versions 3.7 and above.
 The above command will take into account all the necessary dependencies. Please make sure the environment is running Python > 3.8.
 
 ### Usage: Please run the following code to get raw patent text as a list of formatted and cleaned sentences.
