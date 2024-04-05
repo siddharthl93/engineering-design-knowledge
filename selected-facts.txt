@@ -1,0 +1,1346 @@
+#################
+
+Focusing information visualization device, and corresponding method, program and recording medium  - https://patents.google.com/patent/US7978247/
+
+#################
+
+The focusing information visualization system of the invention extracts an edge having an edge intensity of not less than a first reference value Th1 and an edge width of not greater than a second reference value Th2 in a photographic image and displays the extracted edge in a preset color at a position of the edge extraction to be overlapped with the original photographic image on a screen 
+The focusing information visualization system (0) :: of (1) :: the invention (2)
+The focusing information visualization system (0) :: extracts (3) :: an edge (4)
+an edge (4) :: having (5) :: an edge intensity (6)
+an edge width (14) :: of (15) not (16) greater (17) than (18) :: a second reference value Th2 (19)
+a second reference value Th2 (19) :: in (20) :: a photographic image (21)
+The focusing information visualization system (0) :: displays (23) :: the extracted edge (24)
+the extracted edge (24) :: in (25) :: a preset color (26)
+a preset color (26) :: at (27) :: a position (28)
+a position (28) :: of (29) :: the edge extraction (30)
+the extracted edge (24) :: to (31) be (32) overlapped (33) with (34) :: the original photographic image (35)
+the original photographic image (35) :: on (36) :: a screen (37)
+
+
+In response to a users operational specification of one divisional area among the N divisional areas, an enlarged photographic image corresponding to the specified divisional area at a desired magnification ratio is displayed on the screen 
+response (1) :: to (2) :: a users operational specification (3)
+a users operational specification (3) :: of (4) :: one divisional area (5)
+one divisional area (5) :: among (6) :: the N divisional areas (7)
+an enlarged photographic image (9) :: In (0) :: response (1)
+an enlarged photographic image (9) :: corresponding (10) to (11) :: the specified divisional area (12)
+the specified divisional area (12) :: at (13) :: a desired magnification ratio (14)
+an enlarged photographic image (9) :: is (15) displayed (16) on (17) :: the screen (18)
+
+
+According to one aspect, the invention is directed to a focusing information visualization device that visually displays focusing information of a photographic image on a screen 
+the invention (4) :: is (5) directed (6) to (7) :: a focusing information visualization device (8)
+the invention (4) :: According (0) to (1) :: one aspect (2)
+a focusing information visualization device (8) :: visually (10) displays (11) focusing (12) :: information (13)
+information (13) :: of (14) :: a photographic image (15)
+a photographic image (15) :: on (16) :: a screen (17)
+
+
+wherein the edge extraction module specifies an edge condition for extraction of the edge satisfying the focusing condition, based on the specified size of the printing medium and a size of the photographic image and extracts the edge based on the specified edge condition 
+the edge extraction module (1) :: specifies (2) :: an edge condition (3)
+an edge condition (3) :: for (4) :: extraction (5)
+extraction (5) :: of (6) :: the edge (7)
+the edge (7) :: satisfying (8) :: the focusing condition (9)
+the specified size (13) :: of (14) :: the printing medium (15)
+a size (17) :: of (18) :: the photographic image (19)
+the edge extraction module (1) :: extracts (21) :: the edge (22)
+the edge (22) :: based (23) on (24) :: the specified edge condition (25)
+
+
+#################
+
+Preparation of carbonylation products  - https://patents.google.com/patent/US4358411/
+
+#################
+
+Carbonylation products such as alkanoic anhydrides, e.g., acetic anhydrides, are produced by carbonylation of esters and ethers in the presence of a rhodium or iridium catalyst and an iodine moiety in a reaction zone wherein the reaction mixture is in a continuous boiling state 
+Carbonylation products (0) :: such (1) as (2) :: alkanoic anhydrides (3)
+Carbonylation products (0) :: such (1) as (2) :: acetic anhydrides (7)
+Carbonylation products (0) :: are (9) produced (10) by (11) :: carbonylation (12)
+carbonylation (12) :: of (13) :: esters (14)
+carbonylation (12) :: of (13) :: ethers (16)
+carbonylation (12) :: in (17) :: the presence (18)
+the presence (18) :: of (19) :: a rhodium or iridium catalyst (20)
+the presence (18) :: of (19) :: an iodine moiety (22)
+an iodine moiety (22) :: in (23) :: a reaction zone (24)
+a reaction zone (24) :: wherein (25) :: the reaction mixture (26)
+the reaction mixture (26) :: is (27) in (28) :: a continuous boiling state (29)
+
+
+#################
+
+Thin film magnetic recording media  - https://patents.google.com/patent/US7208204/
+
+#################
+
+A method and apparatus for forming a thin film magnetic recording media, the method comprises generating magnetic nanoclusters from a target of magnetic material, crystallizing the magnetic nanoclusters, and depositing the magnetic nanoclusters onto a substrate to form a thin film of magnetic particles thereon 
+the method (8) :: comprises (9) generating (10) :: magnetic nanoclusters (11)
+magnetic nanoclusters (11) :: from (12) :: a target (13)
+a target (13) :: of (14) :: magnetic material (15)
+the method (8) :: comprises (9) crystallizing (17) :: the magnetic nanoclusters (18)
+the method (8) :: comprises (9) depositing (21) :: the magnetic nanoclusters (22)
+the magnetic nanoclusters (22) :: onto (23) :: a substrate (24)
+a substrate (24) :: to (25) form (26) :: a thin film (27)
+a thin film (27) :: of (28) :: magnetic particles (29)
+
+
+#################
+
+Power supply apparatus for slide door in motor vehicle  - https://patents.google.com/patent/US6575760/
+
+#################
+
+The protector 9 has curved walls 28, 29, guide rail 30, slider 31 and first and second harness outlets 32, 33 
+The protector (0) :: has (2) :: curved walls (3)
+The protector (0) :: has (2) :: guide rail (8)
+The protector (0) :: has (2) :: slider (11)
+The protector (0) :: has (2) :: first and second harness outlets (14)
+
+
+The protecting member may be provided with a bending limiting portion, harness securing portion and flange or slanted sliding contact portion which serve to slide the wire harness smoothly 
+The protecting member (0) :: provided (3) with (4) :: a bending limiting portion (5)
+The protecting member (0) :: provided (3) with (4) :: harness securing portion (7)
+The protecting member (0) :: provided (3) with (4) :: flange (9)
+The protecting member (0) :: provided (3) with (4) :: slanted sliding contact portion (11)
+slanted sliding contact portion (11) :: serve (13) to (14) slide (15) :: the wire harness (16)
+
+
+Preferably, the protecting member has a slanted contact portion with which the wire harness derived from the second harness outlet is brought into slanting contact when the slide door is opened, the slanted contact being formed at an inner end of the protecting member in a direction of opening the slide door 
+the protecting member (2) :: has (3) :: a slanted contact portion (4)
+the wire harness (7) :: derived (8) with (5) :: a slanted contact portion (4)
+the wire harness (7) :: derived (8) from (9) :: the second harness outlet (10)
+the wire harness (7) :: is (11) brought (12) into (13) :: slanting contact (14)
+the slanted contact (20) :: formed (22) at (23) :: an inner end (24)
+an inner end (24) :: of (25) :: the protecting member (26)
+the slanted contact (20) :: formed (22) in (27) :: a direction (28)
+a direction (28) :: of (29) opening (30) :: the slide door (31)
+
+
+#################
+
+Installation for manufacturing registration carriers  - https://patents.google.com/patent/US5451155/
+
+#################
+
+The invention relates to an installation for manufacturing registration carriers provided with an injection molding device and with two holders supporting molding plates, which are adjustable with respect to each other between a first position, in which said molding plates bound a mold cavity, into which a material is injected by the injection molding device during operation so as to form the registration carrier, and a second position, in which the molding plates have been moved some distance apart with a view to removing the registration carrier formed 
+The invention (0) :: relates (1) to (2) :: an installation (3)
+an installation (3) :: for (4) :: manufacturing registration carriers (5)
+The invention (0) :: relates (1) to (2) :: an installation (3)
+an installation (3) :: for (4) :: manufacturing registration carriers (5)
+manufacturing registration carriers (5) :: provided (6) with (7) :: an injection molding device (8)
+manufacturing registration carriers (5) :: provided (6) with (10) :: two holders (11)
+two holders (11) :: supporting (12) :: molding plates (13)
+molding plates (13) :: are (16) adjustable (17) with (18) :: respect (19)
+molding plates (29) :: in (26) :: a first position (24)
+molding plates (29) :: bound (30) :: a mold cavity (31)
+a material (35) :: is (36) injected (37) into (33) :: a mold cavity (31)
+a material (35) :: is (36) injected (37) by (38) :: the injection molding device (39)
+a material (35) :: is (36) injected (37) during (40) :: operation (41)
+operation (41) :: to (44) form (45) :: the registration carrier (46)
+the molding plates (53) :: in (51) :: a second position (49)
+
+
+Transport means are provided on either side of the injection molding device, to move a holder supporting a molding plate from a position located at some distance from the injection molding device to a position suitable for cooperation with the injection molding device, and from a position suitable for cooperation with the injection molding device to a position located at some distance from the injection molding device 
+either side (5) :: of (6) :: the injection molding device (7)
+a holder (11) :: supporting (12) :: a molding plate (13)
+a holder (11) :: from (14) :: a position (15)
+a position (15) :: located (16) at (17) :: some distance (18)
+some distance (18) :: from (19) :: the injection molding device (20)
+a holder (11) :: to (21) :: a position (22)
+a position (22) :: suitable (23) for (24) :: cooperation (25)
+cooperation (25) :: with (26) :: the injection molding device (27)
+a holder (11) :: from (30) :: a position (31)
+a position (31) :: suitable (32) for (33) :: cooperation (34)
+cooperation (34) :: with (35) :: the injection molding device (36)
+a holder (11) :: to (37) :: a position (38)
+a position (38) :: located (39) at (40) :: some distance (41)
+some distance (41) :: from (42) :: the injection molding device (43)
+
+
+The installation includes injection molding equipment and two holders supporting molding plates 
+The installation (0) :: includes (1) :: injection molding equipment (2)
+The installation (0) :: includes (1) :: two holders (4)
+two holders (4) :: supporting (5) :: molding plates (6)
+
+
+The holders are adjustable with respect to each other between a first position, in which said molding plates bound a mold cavity, into which a material can be injected by means of the injection molding device during operation, so as to form the registration carrier, and a second position, in which the molding plates have been moved some distance apart 
+The holders (0) :: are (1) adjustable (2) with (3) :: respect (4)
+molding plates (14) :: in (11) :: a first position (9)
+molding plates (14) :: bound (15) :: a mold cavity (16)
+a material (20) :: injected (23) into (18) :: a mold cavity (16)
+a material (20) :: injected (23) by (24) :: means (25)
+means (25) :: of (26) :: the injection molding device (27)
+a material (20) :: injected (23) during (28) :: operation (29)
+the molding plates (42) :: in (40) :: a second position (38)
+
+
+each of said first and second supports including a holder assembly that includes a molding plate mounted thereon, so that in the second closed condition a mold cavity is defined between the respective molding plates and into which molding material is inserted by said injection molding device thereby forming a registration carrier, at least one of said holder assemblies being removably mounted on its support 
+each (0) :: of (1) :: first and second supports (3)
+first and second supports (3) :: including (4) :: a holder assembly (5)
+a holder assembly (5) :: includes (7) :: a molding plate (8)
+a mold cavity (16) :: is (17) defined (18) between (19) :: the respective molding plates (20)
+molding material (24) :: is (25) inserted (26) into (22) :: a mold cavity (16)
+molding material (24) :: is (25) inserted (26) by (27) :: said injection molding device (28)
+said injection molding device (28) :: forming (30) :: a registration carrier (31)
+holder assemblies (38) :: removably (40) mounted (41) on (42) :: its support (43)
+
+
+a transport assembly positioned on opposite sides of said injection molding device and said first and second supports and at a level corresponding to the position of one of said supports when in the first open position, said transport assembly including means for removing the removably mounted holder assembly from the support on which it is removably mounted and for placing another holder assembly on the same support 
+a transport assembly (0) :: positioned (1) on (2) :: opposite sides (3)
+opposite sides (3) :: of (4) :: said injection molding device (5)
+opposite sides (3) :: of (4) :: first and second supports (8)
+a transport assembly (0) :: positioned (1) at (10) :: a level (11)
+a level (11) :: corresponding (12) to (13) :: the position (14)
+transport assembly (24) :: including (25) :: means (26)
+means (26) :: for (27) removing (28) :: the removably mounted holder assembly (29)
+the removably mounted holder assembly (29) :: from (30) :: the support (31)
+
+
+#################
+
+Single crystal group III nitride articles and method of producing same by HVPE method incorporating a polycrystalline layer for yield enhancement  - https://patents.google.com/patent/US8637848/
+
+#################
+
+In a method for making a GaN article, an epitaxial nitride layer is deposited on a single crystal substrate 
+a method (1) :: for (2) making (3) :: a GaN article (4)
+an epitaxial nitride layer (6) :: is (7) deposited (8) on (9) :: a single crystal substrate (10)
+an epitaxial nitride layer (6) :: In (0) :: a method (1)
+
+
+According to one implementation, a method is provided for making a GaN article 
+a method (4) :: According (0) to (1) :: one implementation (2)
+a method (4) :: is (5) provided (6) for (7) making (8) :: a GaN article (9)
+
+
+The GaN/substrate bi layer is cooled from a growth temperature at which the bulk layer is grown to an ambient temperature, wherein GaN material of the bi layer cracks laterally and separates from the substrate to form a substantially crack free free standing GaN article 
+The GaN/substrate bi layer (0) :: is (1) cooled (2) from (3) :: a growth temperature (4)
+the bulk layer (7) :: is (8) grown (9) at (5) :: a growth temperature (4)
+the bulk layer (7) :: is (8) grown (9) to (10) :: an ambient temperature (11)
+an ambient temperature (11) :: wherein (13) :: GaN material (14)
+GaN material (14) :: of (15) :: the bi layer cracks (16)
+the bi layer cracks (16) :: laterally (17) :: the substrate (21)
+the bi layer cracks (16) :: separates (19) from (20) :: the substrate (21)
+the substrate (21) :: to (22) form (23) :: a substantially crack free free standing GaN article (24)
+
+
+#################
+
+Vehicle light with movable reflector portion and shutter portion for selectively switching an illuminated area of light incident on a predetermined portion of the vehicle light during driving  - https://patents.google.com/patent/US6796696/
+
+#################
+
+A vehicle light can include a light source, a major reflecting surface, a projection lens, and a shutter 
+A vehicle light (0) :: include (2) :: a light source (3)
+A vehicle light (0) :: include (2) :: a major reflecting surface (5)
+A vehicle light (0) :: include (2) :: a projection lens (7)
+A vehicle light (0) :: include (2) :: a shutter (10)
+
+
+A first reflecting surface of an ellipse group reflecting surface preferably has a first focus on the light source and a second focus, capable of being inserted in or removed from an optical path from the light source to a second fixed reflecting surface 
+A first reflecting surface (0) :: of (1) :: an ellipse group (2)
+an ellipse group (2) :: reflecting (3) :: surface (4)
+A first reflecting surface (0) :: preferably (5) has (6) :: a first focus (7)
+a first focus (7) :: on (8) :: the light source (9)
+A first reflecting surface (0) :: preferably (5) has (6) :: a second focus (11)
+an optical path (21) :: from (22) :: the light source (23)
+an optical path (21) :: to (24) :: a second fixed reflecting surface (25)
+
+
+A first fixed reflecting surface of a parabolic group reflecting surface can include a focus on the second focus of the first reflecting surface, and at least two second reflecting surface elements 
+A first fixed reflecting surface (0) :: of (1) :: a parabolic group (2)
+a parabolic group (2) :: reflecting (3) :: surface (4)
+A first fixed reflecting surface (0) :: include (6) :: a focus (7)
+a focus (7) :: on (8) :: the second focus (9)
+the second focus (9) :: of (10) :: the first reflecting surface (11)
+A first fixed reflecting surface (0) :: include (6) :: at least two second reflecting surface elements (14)
+
+
+The second fixed reflecting surface can include a first focus on the light source and at least two third reflecting surface elements for reflecting light rays that have traveled an optical path from the light source thereto without being reflected by the first reflecting surface 
+The second fixed reflecting surface (0) :: include (2) :: a first focus (3)
+a first focus (3) :: on (4) :: the light source (5)
+surface elements (12) :: for (13) reflecting (14) :: light rays (15)
+light rays (15) :: traveled (18) :: an optical path (19)
+an optical path (19) :: from (20) :: the light source (21)
+
+
+In order to resolve the aforementioned problems in the related art, the present invention provides vehicle lights designed to alleviate these problems and to provide improved efficiency, decreased cost of manufacture, and improved aesthetic characteristics 
+order (1) :: to (2) resolve (3) :: the aforementioned problems (4)
+the aforementioned problems (4) :: in (5) :: the related art (6)
+the present invention (8) :: In (0) :: order (1)
+the present invention (8) :: provides (9) :: vehicle lights (10)
+vehicle lights (10) :: designed (11) to (12) alleviate (13) :: these problems (14)
+vehicle lights (10) :: designed (11) to (16) provide (17) :: improved efficiency (18)
+cost (21) :: of (22) :: manufacture (23)
+
+
+A second reflecting surface of an ellipse group reflecting surface such as a rotated elliptic surface having a first focus located substantially on the light source and having a second focus at a predetermined position 
+A second reflecting surface (0) :: of (1) :: an ellipse group (2)
+an ellipse group (2) :: reflecting (3) :: surface (4)
+surface (4) :: such (5) as (6) :: a rotated elliptic surface (7)
+a rotated elliptic surface (7) :: having (8) :: a first focus (9)
+a first focus (9) :: located (10) substantially (11) on (12) :: the light source (13)
+surface (4) :: having (15) :: a second focus (16)
+a second focus (16) :: at (17) :: a predetermined position (18)
+
+
+A fourth reflecting surface has a focus substantially on the second focus of the second reflecting surface, and directs light rays from the second focus into a front outer side direction of the vehicle, which is inclined to a predetermined side of the vehicle light, e.g., when the vehicle light is designed to be disposed on the left front corner of the vehicle body, the predetermined side of the vehicle light means a left side of the vehicle light 
+A fourth reflecting surface (0) :: has (1) :: a focus (2)
+a focus (2) :: substantially (3) on (4) :: the second focus (5)
+the second focus (5) :: of (6) :: the second reflecting surface (7)
+A fourth reflecting surface (0) :: directs (10) :: light rays (11)
+light rays (11) :: from (12) :: the second focus (13)
+the second focus (13) :: into (14) :: a front outer side direction (15)
+a front outer side direction (15) :: of (16) :: the vehicle (17)
+the vehicle (17) :: is (20) inclined (21) to (22) :: a predetermined side (23)
+a predetermined side (23) :: of (24) :: the vehicle light (25)
+the left front corner (37) :: of (38) :: the vehicle body (39)
+the predetermined side (41) :: of (42) :: the vehicle light (43)
+a left side (45) :: of (46) :: the vehicle light (47)
+
+
+A fifth reflecting surface has a focus in the vicinity of the second focus of the third reflecting surface, and directs light rays from third reflecting surface into a forward direction, which is also a rather downward direction, of the vehicle light 
+A fifth reflecting surface (0) :: has (1) :: a focus (2)
+a focus (2) :: in (3) :: the vicinity (4)
+the vicinity (4) :: of (5) :: the second focus (6)
+the second focus (6) :: of (7) :: the third reflecting surface (8)
+A fifth reflecting surface (0) :: directs (11) :: light rays (12)
+light rays (12) :: from (13) :: third reflecting surface (14)
+third reflecting surface (14) :: into (15) :: a forward direction (16)
+a forward direction (16) :: is (19) :: a rather downward direction (21)
+a forward direction (16) :: of (23) :: the vehicle light (24)
+a rather downward direction (21) :: of (23) :: the vehicle light (24)
+
+
+The shutter 69 is located in a light passageway from the light bulb 61 to the projection lens 68, preferably in the vicinity of a focus of the projection lens 68 
+The shutter (0) :: is (2) located (3) in (4) :: a light passageway (5)
+a light passageway (5) :: from (6) :: the light bulb (7)
+a light passageway (5) :: to (9) :: the projection lens (10)
+the vicinity (15) :: of (16) :: a focus (17)
+a focus (17) :: of (18) :: the projection lens (19)
+The shutter (0) :: is (2) located (3) preferably (13) in (14) :: the vicinity (15)
+
+
+The focused image of light in the vicinity of the projection lens 68 is constituted by light rays directly come from the light emitting portion of the light bulb 61 and that have passed though the second aperture 65 b, and light rays reflected by the major reflecting surface 62 and that have passed through the second aperture 65 b 
+The focused image (0) :: of (1) :: light (2)
+light (2) :: in (3) :: the vicinity (4)
+the vicinity (4) :: of (5) :: the projection lens (6)
+The focused image (0) :: is (8) constituted (9) by (10) :: light rays (11)
+the light emitting portion (15) :: of (16) :: the light bulb (17)
+light rays (29) :: reflected (30) by (31) :: the major reflecting surface (32)
+
+
+The vehicle 18, wherein the shutter and the additional shutters each respectively includes a fixed portion and a movable portion, which overlap at least partly with the fixed portion, capable of lateral movement between a fully inserted position and a removed position relative to corresponding optical paths from the light source to corresponding projection lenses 
+The vehicle (0) :: wherein (3) :: the shutter (4)
+The vehicle (0) :: wherein (3) :: the additional shutters (6)
+the shutter (4) :: includes (9) :: a fixed portion (10)
+the additional shutters (6) :: includes (9) :: a movable portion (12)
+the fixed portion (20) :: capable (22) of (23) :: lateral movement (24)
+lateral movement (24) :: between (25) :: a fully inserted position (26)
+lateral movement (24) :: between (25) :: a removed position (28)
+a removed position (28) :: relative (29) to (30) :: corresponding optical paths (31)
+corresponding optical paths (31) :: from (32) :: the light source (33)
+corresponding optical paths (31) :: to (34) :: corresponding projection lenses (35)
+
+
+#################
+
+Wound golf ball having cast polyurethane cover  - https://patents.google.com/patent/US6812317/
+
+#################
+
+A golf ball and a method of making a golf ball that includes a center formed from a material including polybutadiene and having a high resilience, at least one cover layer formed of a material including polyurethane, and at least one wound layer of a tensioned material windings between the center and the cover 
+a method (2) :: of (3) making (4) :: a golf ball (5)
+a golf ball (5) :: includes (7) :: a center (8)
+a center (8) :: formed (9) from (10) :: a material (11)
+a material (11) :: including (12) :: polybutadiene (13)
+a material (11) :: having (15) :: a high resilience (16)
+a golf ball (5) :: includes (7) :: at least one cover layer (18)
+at least one cover layer (18) :: formed (19) of (20) :: a material (21)
+a material (21) :: including (22) :: polyurethane (23)
+a golf ball (5) :: includes (7) :: at least one wound layer (26)
+at least one wound layer (26) :: of (27) :: a tensioned material windings (28)
+a tensioned material windings (28) :: between (29) :: the center (30)
+a tensioned material windings (28) :: between (29) :: the cover (32)
+
+
+The polybutadiene composition includes a butadiene polymer with a resilience index greater than about 40 and a weight average molecular weight greater than about 200,000 
+The polybutadiene composition (0) :: includes (1) :: a butadiene polymer (2)
+a butadiene polymer (2) :: with (3) :: a resilience index (4)
+
+
+The cover can be formed of a polymer blend including a polyurethane composition and the core can include a polybutadiene composition 
+The cover (0) :: formed (3) of (4) :: a polymer blend (5)
+a polymer blend (5) :: including (6) :: a polyurethane composition (7)
+the core (9) :: include (11) :: a polybutadiene composition (12)
+
+
+One method of measuring the resiliency of a ball at impact is to utilize an air cannon or other means of propelling a ball at velocities equivalent to those of a golf club head 
+One method (0) :: of (1) measuring (2) :: the resiliency (3)
+the resiliency (3) :: of (4) :: a ball (5)
+a ball (5) :: at (6) :: impact (7)
+One method (0) :: is (8) to (9) utilize (10) :: an air cannon (11)
+One method (0) :: is (8) to (9) utilize (10) :: other means (13)
+other means (13) :: of (14) propelling (15) :: a ball (16)
+a ball (16) :: at (17) :: velocities (18)
+
+
+In one embodiment, the present invention seeks to maximize the COR for low swing speed players 
+the present invention (3) :: In (0) :: one embodiment (1)
+the present invention (3) :: seeks (4) to (5) maximize (6) :: the COR (7)
+the COR (7) :: for (8) :: low swing speed players (9)
+
+
+These players swing the club at the ball with low swing speeds, and thus tend to obtain lower ball velocity after impact and less distance off the tee 
+These players (0) :: swing (1) :: the club (2)
+the club (2) :: at (3) :: the ball (4)
+the ball (4) :: with (5) :: low swing speeds (6)
+low swing speeds (6) :: tend (10) to (11) obtain (12) :: lower ball velocity (13)
+lower ball velocity (13) :: after (14) :: impact (15)
+less distance (17) :: off (18) :: the tee (19)
+low swing speeds (6) :: tend (10) to (11) obtain (12) :: less distance (17)
+
+
+The polymer mixture is subjected to a molding cycle in which heat and pressure are applied while the mixture is confined within a mold 
+The polymer mixture (0) :: is (1) subjected (2) to (3) :: a molding cycle (4)
+heat (7) :: in (5) :: a molding cycle (4)
+pressure (9) :: in (5) :: a molding cycle (4)
+pressure (9) :: applied (11) while (12) :: the mixture (13)
+heat (7) :: applied (11) while (12) :: the mixture (13)
+the mixture (13) :: is (14) confined (15) within (16) :: a mold (17)
+
+
+The molding cycle may also include a two step process, in which the polymer mixture is held in the mold at an initial temperature for an initial duration of time, followed by holding at a second, typically higher temperature for a second duration of time 
+The molding cycle (0) :: include (3) :: a two step process (4)
+the polymer mixture (8) :: in (6) :: a two step process (4)
+the polymer mixture (8) :: is (9) held (10) in (11) :: the mold (12)
+the mold (12) :: at (13) :: an initial temperature (14)
+an initial temperature (14) :: for (15) :: an initial duration (16)
+an initial duration (16) :: of (17) :: time (18)
+typically higher temperature (27) :: for (28) :: a second duration (29)
+a second duration (29) :: of (30) :: time (31)
+
+
+In a preferred embodiment of the current invention, a single step cure cycle is employed 
+a single step cure cycle (5) :: In (0) :: a preferred embodiment (1)
+a preferred embodiment (1) :: of (2) :: the current invention (3)
+
+
+The resilient polymer component, polybutadiene, cis to trans conversion catalyst, additional polymers, free radical initiator, filler, and any other materials used in forming either the golf ball center or any portion of the core, in accordance with the invention, may be combined to form a golf ball by an injection molding process, which is also well known to one of ordinary skill in the art 
+cis (4) :: to (5) :: trans conversion catalyst (6)
+The resilient polymer component (0) :: used (16) in (17) forming (18) :: either the golf ball center (19)
+The resilient polymer component (0) :: used (16) in (17) forming (18) :: any portion (21)
+any portion (21) :: of (22) :: the core (23)
+polybutadiene (2) :: used (16) in (17) forming (18) :: either the golf ball center (19)
+polybutadiene (2) :: used (16) in (17) forming (18) :: any portion (21)
+trans conversion catalyst (6) :: used (16) in (17) forming (18) :: either the golf ball center (19)
+trans conversion catalyst (6) :: used (16) in (17) forming (18) :: any portion (21)
+additional polymers (8) :: used (16) in (17) forming (18) :: either the golf ball center (19)
+additional polymers (8) :: used (16) in (17) forming (18) :: any portion (21)
+free radical initiator (10) :: used (16) in (17) forming (18) :: either the golf ball center (19)
+free radical initiator (10) :: used (16) in (17) forming (18) :: any portion (21)
+filler (12) :: used (16) in (17) forming (18) :: either the golf ball center (19)
+filler (12) :: used (16) in (17) forming (18) :: any portion (21)
+any other materials (15) :: used (16) in (17) forming (18) :: either the golf ball center (19)
+any other materials (15) :: used (16) in (17) forming (18) :: any portion (21)
+the core (23) :: in (25) :: accordance (26)
+accordance (26) :: with (27) :: the invention (28)
+The resilient polymer component (0) :: combined (32) to (33) form (34) :: a golf ball (35)
+polybutadiene (2) :: combined (32) to (33) form (34) :: a golf ball (35)
+trans conversion catalyst (6) :: combined (32) to (33) form (34) :: a golf ball (35)
+additional polymers (8) :: combined (32) to (33) form (34) :: a golf ball (35)
+free radical initiator (10) :: combined (32) to (33) form (34) :: a golf ball (35)
+filler (12) :: combined (32) to (33) form (34) :: a golf ball (35)
+any other materials (15) :: combined (32) to (33) form (34) :: a golf ball (35)
+a golf ball (35) :: by (36) :: an injection molding process (37)
+ordinary skill (47) :: in (48) :: the art (49)
+
+
+Although the curing time depends on the various materials selected, a particularly suitable curing time is about 5 to 18 minutes, preferably from about 8 to 15 minutes, and more preferably from about 10 to 12 minutes 
+the curing time (1) :: depends (2) on (3) :: the various materials (4)
+a particularly suitable curing time (7) :: is (8) :: about 5 to 18 minutes (9)
+a particularly suitable curing time (7) :: preferably (11) from (12) :: about 8 to 15 minutes (13)
+a particularly suitable curing time (7) :: more (16) preferably (17) from (18) :: about 10 to 12 minutes (19)
+
+
+#################
+
+Nonvolatile memory device having self refresh function  - https://patents.google.com/patent/US5347486/
+
+#################
+
+In an nonvolatile memory device, a transition circuit is provided between an output of a sense amplifier and an input of a write amplifier 
+a transition circuit (3) :: In (0) :: an nonvolatile memory device (1)
+a transition circuit (3) :: is (4) provided (5) between (6) :: an output (7)
+an output (7) :: of (8) :: a sense amplifier (9)
+a transition circuit (3) :: is (4) provided (5) between (6) :: an input (11)
+an input (11) :: of (12) :: a write amplifier (13)
+
+
+In a write/read mode, data is transited from an input/output buffer via the transition circuit to an input of the write amplifier or from an output of the sense amplifier via the transition circuit to an input/output buffer 
+data (3) :: In (0) :: a write/read mode (1)
+data (3) :: is (4) transited (5) from (6) :: an input/output buffer (7)
+data (3) :: is (4) transited (5) via (8) :: the transition circuit (9)
+data (3) :: is (4) transited (5) to (10) :: an input (11)
+an input (11) :: of (12) :: the write amplifier (13)
+data (3) :: is (4) transited (5) from (15) :: an output (16)
+an output (16) :: of (17) :: the sense amplifier (18)
+data (3) :: is (4) transited (5) via (19) :: the transition circuit (20)
+data (3) :: is (4) transited (5) to (21) :: an input/output buffer (22)
+
+
+In a self refresh mode, data from the output of the sense amplifier is fed back via the transition circuit to the input of the write amplifier 
+data (3) :: from (4) :: the output (5)
+the output (5) :: of (6) :: the sense amplifier (7)
+data (3) :: In (0) :: a self refresh mode (1)
+data (3) :: is (8) fed (9) back (10) via (11) :: the transition circuit (12)
+data (3) :: is (8) fed (9) back (10) to (13) :: the input (14)
+the input (14) :: of (15) :: the write amplifier (16)
+
+
+According to the present invention, in a nonvolatile memory device, a transition circuit is provided between an output of a sense amplifier and an input of a write amplifier 
+a transition circuit (7) :: in (4) :: a nonvolatile memory device (5)
+a transition circuit (7) :: According (0) to (1) :: the present invention (2)
+a transition circuit (7) :: is (8) provided (9) between (10) :: an output (11)
+an output (11) :: of (12) :: a sense amplifier (13)
+a transition circuit (7) :: is (8) provided (9) between (10) :: an input (15)
+an input (15) :: of (16) :: a write amplifier (17)
+
+
+Therefore, read data is supplied from a selected memory cell such as Coo via the sense amplifier 6 to the transition circuit 7 which transits the read data as output data DO to the output portion 82 of the I/O buffer 8 
+read data (2) :: is (3) supplied (4) from (5) :: a selected memory cell (6)
+a selected memory cell (6) :: such (7) as (8) :: Coo (9)
+read data (2) :: is (3) supplied (4) via (10) :: the sense amplifier (11)
+read data (2) :: is (3) supplied (4) to (13) :: the transition circuit (14)
+the transition circuit (14) :: transits (17) :: the read data (18)
+the read data (18) :: as (19) :: output data (20)
+output data (20) :: :: DO (21)
+the read data (18) :: to (22) :: the output portion (23)
+the output portion (23) :: of (25) :: the I/O buffer (26)
+
+
+#################
+
+Beer keg cooling container  - https://patents.google.com/patent/US4042142/
+
+#################
+
+A beer keg container of insulating material, such as styrofoam, subdivided into three parts, a lid with a hole through which the shaft of the tap extends, an upper half, and a bottom half, which halves are detachably connected by an interlocking joint 
+A beer keg container (0) :: of (1) :: insulating material (2)
+insulating material (2) :: such (4) as (5) :: styrofoam (6)
+A beer keg container (0) :: subdivided (8) into (9) :: three parts (10)
+A beer keg container (0) :: subdivided (8) into (9) :: a lid (12)
+a lid (12) :: with (13) :: a hole (14)
+the shaft (17) :: of (18) :: the tap (19)
+the shaft (17) :: extends (20) through (15) :: a hole (14)
+A beer keg container (0) :: subdivided (8) into (9) :: an upper half (22)
+A beer keg container (0) :: subdivided (8) into (9) :: a bottom half (25)
+which halves (27) :: are (28) detachably (29) connected (30) by (31) :: an interlocking joint (32)
+
+
+#################
+
+Semiconductor memory devices and methods for fabricating the same  - https://patents.google.com/patent/US7504286/
+
+#################
+
+A semiconductor substrate is provided which includes a first well region having a first conductivity type, a second well region having the first conductivity type, a first gate structure overlying the first well region and the second gate structure overlying the second well region 
+A semiconductor substrate (0) :: includes (4) :: a first well region (5)
+a first well region (5) :: having (6) :: a first conductivity type (7)
+A semiconductor substrate (0) :: includes (4) :: a second well region (9)
+a second well region (9) :: having (10) :: the first conductivity type (11)
+A semiconductor substrate (0) :: includes (4) :: a first gate structure (13)
+a first gate structure (13) :: overlying (14) :: the first well region (15)
+A semiconductor substrate (0) :: includes (4) :: the second gate structure (17)
+the second gate structure (17) :: overlying (18) :: the second well region (19)
+
+
+According to one embodiment, a method is provided for fabricating a memory device 
+a method (4) :: is (5) provided (6) for (7) fabricating (8) :: a memory device (9)
+a method (4) :: According (0) to (1) :: one embodiment (2)
+
+
+A semiconductor substrate is provided which includes a first well region having a first conductivity type, a second well region having the first conductivity type, a first gate structure overlying the first well region and the second gate structure overlying the second well region 
+A semiconductor substrate (0) :: includes (4) :: a first well region (5)
+a first well region (5) :: having (6) :: a first conductivity type (7)
+A semiconductor substrate (0) :: includes (4) :: a second well region (9)
+a second well region (9) :: having (10) :: the first conductivity type (11)
+A semiconductor substrate (0) :: includes (4) :: a first gate structure (13)
+a first gate structure (13) :: overlying (14) :: the first well region (15)
+A semiconductor substrate (0) :: includes (4) :: the second gate structure (17)
+the second gate structure (17) :: overlying (18) :: the second well region (19)
+
+
+Drain region 542, source/base region 550, and cathode region 558 are implanted as represented by the arrows 602 
+cathode region (7) :: implanted (10) as (11) represented (12) by (13) :: the arrows (14)
+source/base region (3) :: implanted (10) as (11) represented (12) by (13) :: the arrows (14)
+Drain region (0) :: implanted (10) as (11) represented (12) by (13) :: the arrows (14)
+
+
+In this exemplary embodiment, N type conductivity determining ions, such as phosphorus or arsenic, are implanted 
+N type conductivity (3) :: In (0) :: this exemplary embodiment (1)
+N type conductivity (3) :: determining (4) :: ions (5)
+ions (5) :: such (7) as (8) :: phosphorus (9)
+
+
+In an alternate embodiment, P type conductivity determining ions, such as boron, can be implanted into the exposed regions of the semiconductor layer 
+, P type conductivity (2) :: In (0) :: an alternate embodiment (1)
+, P type conductivity (2) :: determining (3) :: ions (4)
+ions (4) :: such (6) as (7) :: boron (8)
+, P type conductivity (2) :: implanted (12) into (13) :: the exposed regions (14)
+the exposed regions (14) :: of (15) :: the semiconductor layer (16)
+
+
+#################
+
+Absorbable surgical sutures coated with polyoxyethylene polyoxypropylene copolymer lubricant  - https://patents.google.com/patent/US4047533/
+
+#################
+
+The handling characteristics, including particularly the knot run down, of synthetic absorbable surgical sutures and tissue drag characteristics are improved by a coating of a lubricating film of a bioabsorbable copolymer having polyoxyethylene blocks and polyoxypropylene blocks, and which bioabsorbable copolymer has a molecular weight such that it is pasty to solid at 25° C 
+The handling characteristics (0) :: including (2) :: particularly the knot (3)
+tissue drag characteristics (10) :: improved (12) by (13) :: a coating (14)
+synthetic absorbable surgical sutures (8) :: improved (12) by (13) :: a coating (14)
+a coating (14) :: of (15) :: a lubricating film (16)
+a lubricating film (16) :: of (17) :: a bioabsorbable copolymer (18)
+a bioabsorbable copolymer (18) :: having (19) :: polyoxyethylene blocks (20)
+a bioabsorbable copolymer (18) :: having (19) :: polyoxypropylene blocks (22)
+which bioabsorbable copolymer (25) :: has (26) :: a molecular weight (27)
+
+
+The suture 12 in which the lubricating coating is about 0.1 to 25 percent by weight of the lubricating bioabsorbable copolymer of the weight of the uncoated strand forming the suture, whereby both chatter and friction are reduced sufficiently that a square knot is movable on the suture with control of a wound edge 
+the lubricating coating (4) :: in (2) :: The suture (0)
+the lubricating coating (4) :: is (5) :: about 0.1 to 25 percent (6)
+about 0.1 to 25 percent (6) :: by (7) :: weight (8)
+weight (8) :: of (9) :: the lubricating bioabsorbable copolymer (10)
+the lubricating bioabsorbable copolymer (10) :: of (11) :: the weight (12)
+the weight (12) :: of (13) :: the uncoated strand (14)
+the uncoated strand (14) :: forming (15) :: the suture (16)
+a square knot (26) :: is (27) movable (28) on (29) :: the suture (30)
+the suture (30) :: with (31) :: control (32)
+control (32) :: of (33) :: a wound edge (34)
+
+
+#################
+
+Timing pulse generator for a glassware forming machine  - https://patents.google.com/patent/US4145204/
+
+#################
+
+Each piece of glassware is formed during a machine cycle which is related in duration to the gob distribution rate and typically is defined in terms of 360° 
+Each piece (0) :: of (1) :: glassware (2)
+Each piece (0) :: is (3) formed (4) during (5) :: a machine cycle (6)
+a machine cycle (6) :: is (8) related (9) in (10) :: duration (11)
+duration (11) :: to (12) :: the gob distribution rate (13)
+terms (19) :: of (20) :: 360° (21)
+a machine cycle (6) :: is (16) defined (17) in (18) :: terms (19)
+
+
+The power source includes a timing pulse generator which synthesizes the timing signals from the power source electric power frequency at the frequency required for defining 360° per machine cycle 
+The power source (0) :: includes (1) :: a timing pulse generator (2)
+a timing pulse generator (2) :: synthesizes (4) :: the timing signals (5)
+the timing signals (5) :: from (6) :: the power source electric power frequency (7)
+the timing signals (5) :: at (8) :: the frequency (9)
+the frequency (9) :: required (10) for (11) defining (12) :: 360° (13)
+360° (13) :: per (14) :: machine cycle (15)
+
+
+The gob feeder 33 and the gob distributor 32 can then be phased in with reference to the reset signal such that the gob is distributed to the individual section at the required time in the machine cycle 
+The gob feeder (0) :: phased (8) in (9) with (10) :: reference (11)
+the gob distributor (3) :: phased (8) in (9) with (10) :: reference (11)
+reference (11) :: to (12) :: the reset signal (13)
+the gob (16) :: is (17) distributed (18) to (19) :: the individual section (20)
+the gob (16) :: is (17) distributed (18) at (21) :: the required time (22)
+the required time (22) :: in (23) :: the machine cycle (24)
+
+
+#################
+
+Methods of treating colitis involving IL 13 and NK T cells  - https://patents.google.com/patent/US8173123/
+
+#################
+
+Method of treating or preventing the inflammatory response of colitis in a subject comprising administering to the subject an effective amount of a substance that modulates IL 13 activity  
+Method (0) :: of (1) treating (2) :: the inflammatory response (5)
+Method (0) :: of (1) preventing (4) :: the inflammatory response (5)
+the inflammatory response (5) :: of (6) :: colitis (7)
+colitis (7) :: in (8) :: a subject (9)
+Method (0) :: comprising (10) administering (11) :: an effective amount (14)
+an effective amount (14) :: to (12) :: the subject (13)
+an effective amount (14) :: of (15) :: a substance (16)
+a substance (16) :: modulates (18) :: IL 13 activity (19)
+
+
+The invention also provides a method of treating or preventing the inflammatory response of colitis in a subject comprising administering to the subject an effective amount of a substance that modulates NK T cell activity 
+The invention (0) :: provides (2) :: a method (3)
+a method (3) :: of (4) treating (5) :: the inflammatory response (8)
+a method (3) :: of (4) preventing (7) :: the inflammatory response (8)
+the inflammatory response (8) :: of (9) :: colitis (10)
+colitis (10) :: in (11) :: a subject (12)
+a subject (12) :: comprising (13) administering (14) :: an effective amount (17)
+an effective amount (17) :: to (15) :: the subject (16)
+an effective amount (17) :: of (18) :: a substance (19)
+a substance (19) :: modulates (21) :: NK T cell activity (22)
+
+
+#################
+
+Door locking mechanism for coke oven door  - https://patents.google.com/patent/US4061382/
+
+#################
+
+A lock nut is screwed onto the outer end of the bolt and is locked to the nut, so that rotation of the lock nut rotates the bolt and adjusts the circumferential position of the locking bar 
+A lock nut (0) :: is (1) screwed (2) onto (3) :: the outer end (4)
+the outer end (4) :: of (5) :: the bolt (6)
+A lock nut (0) :: is (8) locked (9) to (10) :: the nut (11)
+rotation (15) :: of (16) :: the lock nut (17)
+rotation (15) :: rotates (18) :: the bolt (19)
+rotation (15) :: adjusts (21) :: the circumferential position (22)
+the circumferential position (22) :: of (23) :: the locking bar (24)
+
+
+In order to secure locking bar 1 in its relative position to the locking bar hooks and to avoid the possibility of an accidental displacement from such position, bolt 2 may be circumferentially or rotatively fixed relative to door 6 
+order (1) :: to (2) secure (3) :: locking bar (4)
+locking bar (4) :: in (6) :: its relative position (7)
+its relative position (7) :: to (8) :: the locking bar hooks (9)
+order (1) :: to (11) avoid (12) :: the possibility (13)
+the possibility (13) :: of (14) :: an accidental displacement (15)
+an accidental displacement (15) :: from (16) :: such position (17)
+
+
+A mechanism 1, wherein said bolt and said sleeve element have respective outer and inner surfaces in frictional sliding contact, and further comprising means for lubricating said surfaces from a position at said outer end of said bolt 
+A mechanism (0) :: wherein (3) :: said bolt (4)
+A mechanism (0) :: wherein (3) :: said sleeve element (6)
+said bolt (4) :: have (7) :: respective outer and inner surfaces (8)
+said sleeve element (6) :: have (7) :: respective outer and inner surfaces (8)
+respective outer and inner surfaces (8) :: in (9) :: frictional sliding contact (10)
+A mechanism (0) :: comprising (14) :: means (15)
+means (15) :: for (16) lubricating (17) :: said surfaces (18)
+said surfaces (18) :: from (19) :: a position (20)
+a position (20) :: at (21) :: said outer end (22)
+said outer end (22) :: of (23) :: said bolt (24)
+
+
+#################
+
+Method for starting an engine  - https://patents.google.com/patent/US8568272/
+
+#################
+
+In this way, the amount of engine torque that is transferred to the transmission case may be reduced during engine run up 
+the amount (3) :: of (4) :: engine torque (5)
+engine torque (5) :: is (7) transferred (8) to (9) :: the transmission case (10)
+the amount (3) :: reduced (13) during (14) :: engine run (15)
+
+
+#################
+
+Fuel injection nozzle having a force balanced check  - https://patents.google.com/patent/US5421521/
+
+#################
+
+A check valve assembly for a fuel injector includes an injector body having an injector bore therein, an elongate check disposed within the injector bore and an actuator for moving the check along an axial path between a sealing position and an open position 
+A check valve assembly (0) :: for (1) :: a fuel injector (2)
+A check valve assembly (0) :: includes (3) :: an injector body (4)
+an injector body (4) :: having (5) :: an injector bore (6)
+an elongate check (9) :: disposed (10) within (11) :: the injector bore (12)
+an elongate check (9) :: disposed (10) within (11) :: an actuator (14)
+an actuator (14) :: for (15) moving (16) :: the check (17)
+the check (17) :: along (18) :: an axial path (19)
+an axial path (19) :: between (20) :: a sealing position (21)
+an axial path (19) :: between (20) :: an open position (23)
+
+
+The present invention relates generally to fuel injection systems and, more particularly, to a fuel injector which can be directly operated by a low force actuator 
+The present invention (0) :: relates (1) particularly (9) to (11) :: a fuel injector (12)
+a fuel injector (12) :: directly (16) operated (17) by (18) :: a low force actuator (19)
+
+
+According to yet another aspect of the present invention, a fuel injector includes an injector body having an injector bore, an injector inlet in fluid communication with the injector bore for admittance of pressurized fuel therein and an injector nozzle orifice in fluid communication with the injector bore 
+yet another aspect (2) :: of (3) :: the present invention (4)
+a fuel injector (6) :: According (0) to (1) :: yet another aspect (2)
+a fuel injector (6) :: includes (7) :: an injector body (8)
+an injector body (8) :: having (9) :: an injector bore (10)
+fluid communication (15) :: with (16) :: the injector bore (17)
+the injector bore (17) :: for (18) :: admittance (19)
+admittance (19) :: of (20) :: pressurized fuel (21)
+an injector nozzle orifice (24) :: in (25) :: fluid communication (26)
+fluid communication (26) :: with (27) :: the injector bore (28)
+
+
+A circular cylindrical elongate check is provided having a guide portion disposed at a first check end within a guide wall defining the injector bore, a tip portion disposed at a second check end within a tip wall defining the injector bore and a sealing portion between the guide portion and the tip portion and disposed adjacent a valve seat defining the injector bore 
+A circular cylindrical elongate check (0) :: is (1) provided (2) having (3) :: a guide portion (4)
+a guide portion (4) :: disposed (5) at (6) :: a first check end (7)
+a first check end (7) :: within (8) :: a guide wall (9)
+a guide wall (9) :: defining (10) :: the injector bore (11)
+a tip portion (13) :: disposed (14) at (15) :: a second check end (16)
+a second check end (16) :: within (17) :: a tip wall (18)
+a tip wall (18) :: defining (19) :: the injector bore (20)
+a sealing portion (22) :: between (23) :: the guide portion (24)
+a sealing portion (22) :: between (23) :: the tip portion (26)
+a sealing portion (22) :: disposed (28) :: adjacent a valve seat (29)
+adjacent a valve seat (29) :: defining (30) :: the injector bore (31)
+A circular cylindrical elongate check (0) :: is (1) provided (2) having (3) :: a tip portion (13)
+A circular cylindrical elongate check (0) :: is (1) provided (2) having (3) :: a sealing portion (22)
+
+
+an injector bore including a guide bore section defined by a guide wall, a tip bore section defined by a tip wall and a conical valve seat disposed between the guide wall and the tip wall, 
+an injector bore (0) :: including (1) :: a guide bore section (2)
+a guide bore section (2) :: defined (3) by (4) :: a guide wall (5)
+an injector bore (0) :: including (1) :: a tip bore section (7)
+a tip bore section (7) :: defined (8) by (9) :: a tip wall (10)
+an injector bore (0) :: including (1) :: a conical valve seat (12)
+a conical valve seat (12) :: disposed (13) between (14) :: the guide wall (15)
+a conical valve seat (12) :: disposed (13) between (14) :: the tip wall (17)
+
+
+#################
+
+Internal combustion engine with insulated piston  - https://patents.google.com/patent/US4067670/
+
+#################
+
+The surfaces of the rotor that are exposed to the gases of combustion are provided with a plurality of pockets 
+The surfaces (0) :: of (1) :: the rotor (2)
+The surfaces (0) :: are (4) exposed (5) to (6) :: the gases (7)
+the gases (7) :: of (8) :: combustion (9)
+The surfaces (0) :: are (10) provided (11) with (12) :: a plurality (13)
+a plurality (13) :: of (14) :: pockets (15)
+
+
+According to one embodiment of the invention, the pockets are defined by upstanding walls in the movable element adjacent the surface exposed to gases of combustion 
+the pockets (6) :: According (0) to (1) :: one embodiment (2)
+one embodiment (2) :: of (3) :: the invention (4)
+the pockets (6) :: are (7) defined (8) by (9) :: upstanding walls (10)
+upstanding walls (10) :: in (11) :: the movable element (12)
+gases (18) :: of (19) :: combustion (20)
+
+
+According to another embodiment of the invention, the pockets are defined by inturned edges on the covers which embrace a boundary of a recess formed in the surface of the movable element exposed to hot gases of combustion 
+another embodiment (2) :: of (3) :: the invention (4)
+the pockets (6) :: According (0) to (1) :: another embodiment (2)
+the pockets (6) :: are (7) defined (8) by (9) :: inturned edges (10)
+inturned edges (10) :: on (11) :: the covers (12)
+the covers (12) :: embrace (14) :: a boundary (15)
+a boundary (15) :: of (16) :: a recess (17)
+a recess (17) :: formed (18) in (19) :: the surface (20)
+the surface (20) :: of (21) :: the movable element (22)
+the movable element (22) :: exposed (23) to (24) :: hot gases (25)
+hot gases (25) :: of (26) :: combustion (27)
+
+
+In this case, each of the surfaces 26 of the rotor 20 is provided with pockets 28 integrally cast in the surfaces 26 
+each (3) :: of (4) :: the surfaces (5)
+each (3) :: In (0) :: this case (1)
+the surfaces (5) :: of (7) :: the rotor (8)
+each (3) :: is (10) provided (11) with (12) :: pockets (13)
+pockets (13) :: integrally (15) cast (16) in (17) :: the surfaces (18)
+
+
+In the case of the embodiment illustrated in FIG 3, the covers 30 are virtually planar 
+the case (1) :: of (2) :: the embodiment (3)
+the covers (9) :: In (0) :: the case (1)
+
+
+The material of which the covers 30 are formed should have the same characteristics mentioned above in connection with the embodiment of FIGS 1 and 2 and should be slightly stressed when secured in place 
+the covers (3) :: are (5) formed (6) of (1) :: The material (0)
+The material (0) :: have (8) :: the same characteristics (9)
+
+
+#################
+
+Method and apparatus for producing ceramic ware  - https://patents.google.com/patent/US4215265/
+
+#################
+
+According to the method, the temperature within the chamber is raised to a predetermined level by energizing the heating elements 
+the temperature (4) :: According (0) to (1) :: the method (2)
+the temperature (4) :: within (5) :: the chamber (6)
+the temperature (4) :: is (7) raised (8) to (9) :: a predetermined level (10)
+a predetermined level (10) :: by (11) energizing (12) :: the heating elements (13)
+
+
+Upon attainment of the desired temperature level, a selected quantity of the reducing agent is introduced into the chamber for producing a reducing atmosphere during the maturing of the ceramic ware 
+a selected quantity (5) :: of (6) :: the reducing agent (7)
+a selected quantity (5) :: is (8) introduced (9) into (10) :: the chamber (11)
+the chamber (11) :: for (12) producing (13) :: a reducing atmosphere (14)
+a reducing atmosphere (14) :: during (15) :: the maturing (16)
+the maturing (16) :: of (17) :: the ceramic ware (18)
+the chamber (11) :: Upon (0) attainment (1) of (2) :: the desired temperature level (3)
+
+
+As the temperature is raised to a level at which the heating elements would be damaged, a substantially neutral atomsphere is maintained in the chamber 
+the temperature (1) :: is (2) raised (3) to (4) :: a level (5)
+the heating elements (8) :: damaged (11) at (6) :: a level (5)
+a substantially neutral atomsphere (13) :: is (14) maintained (15) in (16) :: the chamber (17)
+
+
+This temperature level, which is selected by the operator depending upon the amount and type of reducing agent, the material used to make the clay and glaze, and the desired effects, permits reduction of the clay body of the ware including areas underneath the as yet unmelted glaze on the ware surface 
+This temperature level (0) :: is (3) selected (4) by (5) :: the operator (6)
+the operator (6) :: depending (7) upon (8) :: the amount (9)
+the operator (6) :: depending (7) upon (8) :: type (11)
+type (11) :: of (12) reducing (13) :: agent (14)
+This temperature level (0) :: is (3) selected (4) by (5) :: the material (16)
+the material (16) :: used (17) to (18) make (19) :: the clay (20)
+the material (16) :: used (17) to (18) make (19) :: glaze (22)
+This temperature level (0) :: is (3) selected (4) by (5) :: the desired effects (25)
+This temperature level (0) :: permits (27) :: reduction (28)
+reduction (28) :: of (29) :: the clay body (30)
+the clay body (30) :: of (31) :: the ware (32)
+the ware (32) :: including (33) :: areas (34)
+areas (34) :: underneath (35) :: the as yet unmelted glaze (36)
+the as yet unmelted glaze (36) :: on (37) :: the ware surface (38)
+
+
+Upon attainment of the desired lower temperature, the reducing agent is introduced into the chamber on a body reduction pan composed of a high temperature stainless steel or suitable refractory material 
+the reducing agent (5) :: is (6) introduced (7) into (8) :: the chamber (9)
+the chamber (9) :: on (10) :: a body reduction pan (11)
+a body reduction pan (11) :: composed (12) of (13) :: a high temperature stainless steel (14)
+a body reduction pan (11) :: composed (12) of (13) :: suitable refractory material (16)
+the chamber (9) :: Upon (0) attainment (1) of (2) :: the desired lower temperature (3)
+
+
+Upon attainment of the desired temperature level for maturing the ceramic ware, the heating elements are deenergized and the reducing agent may be reintroduced into the chamber after cooling down to a predetermined temperature 
+the desired temperature level (3) :: for (4) maturing (5) :: the ceramic ware (6)
+the reducing agent (12) :: reintroduced (15) into (16) :: the chamber (17)
+the chamber (17) :: Upon (0) attainment (1) of (2) :: the desired temperature level (3)
+the chamber (17) :: after (18) cooling (19) down (20) to (21) :: a predetermined temperature (22)
+
+
+In the preferred embodiment, plate 48 is composed of a refractory material which conducts and reradiates heat generated by heating elements 38 
+plate (3) :: In (0) :: the preferred embodiment (1)
+plate (3) :: is (5) composed (6) of (7) :: a refractory material (8)
+a refractory material (8) :: conducts (10) :: heat (13)
+a refractory material (8) :: reradiates (12) :: heat (13)
+heat (13) :: generated (14) by (15) :: heating elements (16)
+
+
+A compartment 50, which is located below plate 48 and a portion of floor 44, is accessible at an exterior wall of kiln 10 through a stoking port 52 
+A compartment (0) :: is (4) located (5) below (6) :: plate (7)
+a portion (10) :: of (11) :: floor (12)
+A compartment (0) :: is (4) located (5) below (6) :: a portion (10)
+A compartment (0) :: is (15) accessible (16) at (17) :: an exterior wall (18)
+an exterior wall (18) :: of (19) :: kiln (20)
+kiln (20) :: through (22) :: a stoking port (23)
+
+
+The chamber may, however, be leaky to allow the sealing members previously described to operate as one way valves which would then prevent exterior air from entering into chamber 56 during firing of the ceramic ware 
+the sealing members (9) :: operate (13) as (14) :: one way (15)
+one way (15) :: :: valves (16)
+valves (16) :: prevent (20) :: exterior air (21)
+exterior air (21) :: from (22) entering (23) into (24) :: chamber (25)
+chamber (25) :: during (27) :: firing (28)
+firing (28) :: of (29) :: the ceramic ware (30)
+
+
+The naturally rough finish of step 46 and plate 48 provides that necessary gaseous communication between compartment 50 and chamber 56, while preventing fly ash and other solid particles from rising into the upper chamber 56 
+The naturally rough finish (0) :: of (1) :: step (2)
+that necessary gaseous communication (8) :: between (9) :: compartment (10)
+that necessary gaseous communication (8) :: between (9) :: chamber (13)
+chamber (13) :: preventing (17) :: fly ash (18)
+compartment (10) :: preventing (17) :: fly ash (18)
+compartment (10) :: preventing (17) :: other solid particles (20)
+chamber (13) :: preventing (17) :: other solid particles (20)
+other solid particles (20) :: from (21) rising (22) into (23) :: the upper chamber (24)
+fly ash (18) :: from (21) rising (22) into (23) :: the upper chamber (24)
+
+
+said plate member and said floor further cooperating to allow gas to seep from said compartment to said chamber for providing a substantially uniform gaseous environment in said chamber 
+floor (4) :: cooperating (6) to (7) allow (8) :: gas (9)
+plate member (1) :: cooperating (6) to (7) allow (8) :: gas (9)
+gas (9) :: to (10) seep (11) from (12) :: said compartment (13)
+said compartment (13) :: to (14) :: chamber (16)
+chamber (16) :: for (17) providing (18) :: a substantially uniform gaseous environment (19)
+a substantially uniform gaseous environment (19) :: in (20) :: chamber (22)
+
+
+electrical heating wire elements mounted to said housing within said chamber, said heating wire elements being subject to damage in a reduction atmosphere, and exposed to a central portion of said chamber, said electrical heating elements having an energized and a deenergized state, said chamber being heated when said electrical heating elements are energized 
+electrical heating wire elements (0) :: mounted (1) to (2) :: housing (4)
+housing (4) :: within (5) :: said chamber (6)
+heating wire elements (9) :: subject (11) to (12) :: damage (13)
+damage (13) :: in (14) :: a reduction atmosphere (15)
+electrical heating wire elements (0) :: exposed (18) to (19) :: a central portion (20)
+a central portion (20) :: of (21) :: said chamber (22)
+electrical heating elements (25) :: having (26) :: a deenergized state (30)
+chamber (33) :: heated (35) when (36) :: electrical heating elements (38)
+
+
+#################
+
+Gas economizer  - https://patents.google.com/patent/US4090466/
+
+#################
+
+The device is loaded on the dash of an automobile and is connected by a tube to the intake manifold of the engine 
+The device (0) :: is (1) loaded (2) on (3) :: the dash (4)
+the dash (4) :: of (5) :: an automobile (6)
+The device (0) :: is (8) connected (9) by (10) :: a tube (11)
+The device (0) :: is (8) connected (9) to (12) :: the intake manifold (13)
+the intake manifold (13) :: of (14) :: the engine (15)
+
+
+The device includes an egg shaped transparent container, an egg shaped core with an elastic coating within the container, a support at the bottom of the container and a tube connected near the top of the container 
+The device (0) :: includes (1) :: an egg shaped transparent container (2)
+The device (0) :: includes (1) :: an egg shaped core (4)
+an egg shaped core (4) :: with (5) :: an elastic coating (6)
+an elastic coating (6) :: within (7) :: the container (8)
+The device (0) :: includes (1) :: a support (10)
+a support (10) :: at (11) :: the bottom (12)
+the bottom (12) :: of (13) :: the container (14)
+The device (0) :: includes (1) :: a tube (16)
+a tube (16) :: connected (17) near (18) :: the top (19)
+the top (19) :: of (20) :: the container (21)
+
+
+Core B is seated within the lower shell portion C and is kept in place by the curved portion 6 of upper shell portion A 
+Core B (0) :: is (1) seated (2) within (3) :: the lower shell portion C (4)
+Core B (0) :: is (6) kept (7) in (8) :: place (9)
+Core B (0) :: is (6) kept (7) by (10) :: the curved portion (11)
+the curved portion (11) :: of (13) :: upper shell portion A (14)
+
+
+The gas economizer 2, wherein one end of a tube is connected to the upper shell in register with the opening in the upper shell and the other end of the tube is adapted to be operatively coupled to an intake manifold of an internal combustion engine 
+The gas economizer (0) :: wherein (3) :: one end (4)
+one end (4) :: of (5) :: a tube (6)
+one end (4) :: is (7) connected (8) to (9) :: the upper shell (10)
+one end (4) :: is (7) connected (8) in (11) :: register (12)
+one end (4) :: is (7) connected (8) with (13) :: the opening (14)
+the opening (14) :: in (15) :: the upper shell (16)
+The gas economizer (0) :: wherein (3) :: the other end (18)
+the other end (18) :: of (19) :: the tube (20)
+an intake manifold (28) :: of (29) :: an internal combustion engine (30)
+
+
+#################
+
+Ultra miniature multi hole probes having high frequency, high temperature responses  - https://patents.google.com/patent/US8069732/
+
+#################
+
+The pressure probe can include a probe body, a plurality of transducer ports, and a plurality of transducers 
+The pressure probe (0) :: include (2) :: a probe body (3)
+The pressure probe (0) :: include (2) :: a plurality (5)
+a plurality (5) :: of (6) :: transducer ports (7)
+The pressure probe (0) :: include (2) :: a plurality (10)
+a plurality (10) :: of (11) :: transducers (12)
+
+
+The header can have a thickness substantially less than the probe diameter and can comprise a flange about an edge of the header 
+The header (0) :: have (2) :: a thickness (3)
+a thickness (3) :: substantially (4) less (5) than (6) :: the probe diameter (7)
+The header (0) :: comprise (10) :: a flange (11)
+a flange (11) :: about (12) :: an edge (13)
+an edge (13) :: of (14) :: the header (15)
+
+
+In other words, the probe body 820 can comprise a plurality of transducer ports 850 for receiving the transducer structures 740 
+the probe body (3) :: In (0) :: other words (1)
+the probe body (3) :: comprise (6) :: a plurality (7)
+a plurality (7) :: of (8) :: transducer ports (9)
+transducer ports (9) :: for (11) receiving (12) :: the transducer structures (13)
+
+
+Each transducer port 850 defines an aperture 858 for receiving the transducer structure 740, and further comprises a counter bore 855 for receiving the flange portion 715 of the header 710 of the transducer structure 740 
+Each transducer port (0) :: defines (2) :: an aperture (3)
+an aperture (3) :: for (5) receiving (6) :: the transducer structure (7)
+Each transducer port (0) :: comprises (12) :: a counter bore (13)
+a counter bore (13) :: for (15) receiving (16) :: the flange portion (17)
+the flange portion (17) :: of (19) :: the header (20)
+the header (20) :: of (22) :: the transducer structure (23)
+
+
+#################
+
+Acid electrotinning bath  - https://patents.google.com/patent/US4073701/
+
+#################
+
+Para aminophenylacetic acid and 4 aminoantipyrine can be added to the bath and in the presence of sodium ferrocyanide reduce the rate of oxidation of the bivalent tin ion 
+Para aminophenylacetic acid (0) :: added (5) to (6) :: the bath (7)
+4 aminoantipyrine (2) :: added (5) to (6) :: the bath (7)
+4 aminoantipyrine (2) :: added (5) in (9) :: the presence (10)
+Para aminophenylacetic acid (0) :: added (5) in (9) :: the presence (10)
+the presence (10) :: of (11) :: sodium ferrocyanide (12)
+Para aminophenylacetic acid (0) :: reduce (13) :: the rate (14)
+the rate (14) :: of (15) :: oxidation (16)
+oxidation (16) :: of (17) :: the bivalent tin ion (18)
+
+
+The concentration of the para aminoacetanilide is determined by a color test in which the para aminoacetanilide was reacted with phenol 
+The concentration (0) :: of (1) :: the para aminoacetanilide (2)
+The concentration (0) :: is (3) determined (4) by (5) :: a color test (6)
+the para aminoacetanilide (9) :: in (7) :: a color test (6)
+the para aminoacetanilide (9) :: reacted (11) with (12) :: phenol (13)
+
+
+#################
+
+Physiological measurement strip with display  - https://patents.google.com/patent/US7640049/
+
+#################
+
+The alarm lamps include a red light, a yellow light and a green light 
+The alarm lamps (0) :: include (1) :: a red light (2)
+The alarm lamps (0) :: include (1) :: a yellow light (4)
+The alarm lamps (0) :: include (1) :: a green light (6)
+
+
+The present invention relates to physiological measurement devices, and particularly to a physiological measurement strip with a display, which can display the physiological data real time and present the physiological conditions by alarm lamps and speaker 
+The present invention (0) :: relates (1) to (2) :: physiological measurement devices (3)
+The present invention (0) :: relates (1) particularly (6) to (7) :: a physiological measurement strip (8)
+a physiological measurement strip (8) :: with (9) :: a display (10)
+a physiological measurement strip (8) :: display (14) :: the physiological data (15)
+a physiological measurement strip (8) :: present (19) :: the physiological conditions (20)
+the physiological conditions (20) :: by (21) :: alarm lamps (22)
+the physiological conditions (20) :: by (21) :: speaker (24)
+
+
+#################
+
+Scanning files using direct file system access  - https://patents.google.com/patent/US7860850/
+
+#################
+
+The present invention generally relates to accessing one or more file systems, for example scanning files in a computer or computer system, and more particularly to a method, system and computer program, such as software, for detecting malware that may be protected or guarded by one or more rootkits 
+The present invention (0) :: relates (2) to (3) accessing (4) :: one or more file systems (5)
+files (10) :: in (11) :: a computer (12)
+files (10) :: in (11) :: computer system (14)
+The present invention (0) :: relates (2) to (3) scanning (9) :: files (10)
+The present invention (0) :: relates (2) particularly (18) to (19) :: a method (20)
+The present invention (0) :: relates (2) particularly (18) to (19) :: system (22)
+The present invention (0) :: relates (2) particularly (18) to (19) :: computer program (24)
+computer program (24) :: such (26) as (27) :: software (28)
+computer program (24) :: for (30) detecting (31) :: malware (32)
+system (22) :: for (30) detecting (31) :: malware (32)
+a method (20) :: for (30) detecting (31) :: malware (32)
+malware (32) :: protected (36) by (39) :: one or more rootkits (40)
+malware (32) :: guarded (38) by (39) :: one or more rootkits (40)
+
+
+#################
+
+Permanently installed pest extermination system  - https://patents.google.com/patent/US4742641/
+
+#################
+
+In order to achieve effective control of pests in residential and commercial buildings, a permanently installed pest control system is disclosed which is particularly adapted for incorporation into existing structures without substantial modification 
+order (1) :: to (2) achieve (3) :: effective control (4)
+effective control (4) :: of (5) :: pests (6)
+pests (6) :: in (7) :: residential and commercial buildings (8)
+a permanently installed pest control system (10) :: In (0) :: order (1)
+a permanently installed pest control system (10) :: is (14) particularly (15) adapted (16) for (17) :: incorporation (18)
+incorporation (18) :: into (19) :: existing structures (20)
+existing structures (20) :: without (21) :: substantial modification (22)
+
+
+The system includes an exterminating liquid supply subsystem and an exterminating liquid distribution subsystem 
+The system (0) :: includes (1) :: an exterminating liquid supply subsystem (2)
+The system (0) :: includes (1) :: an exterminating liquid distribution subsystem (4)
+
+
+The supply subsystem includes a replaceable exterminating liquid reservoir, an electrically driven pump and switch means coupled to a source of electrical energy to selectively energize the pump 
+The supply subsystem (0) :: includes (1) :: a replaceable exterminating liquid reservoir (2)
+The supply subsystem (0) :: includes (1) :: an electrically driven pump (4)
+The supply subsystem (0) :: includes (1) :: switch means (6)
+switch means (6) :: coupled (7) to (8) :: a source (9)
+a source (9) :: of (10) :: electrical energy (11)
+electrical energy (11) :: to (12) selectively (13) energize (14) :: the pump (15)
+
+
+The distribution subsystem includes a trunk tube connected to the pump to receive pressurized exterminating liquid drawn from the reservoir and one or more branch tubes extending throughout the building at a position near the floor, each branch tube having a plurality of outwardly directed small apertures piercing its wall at intervals along its length to effect nozzles through which pressurized exterminating liquid is dispensed into the inter wall space and onto the area at which the wall and floor meet 
+The distribution subsystem (0) :: includes (1) :: a trunk tube (2)
+a trunk tube (2) :: connected (3) to (4) :: the pump (5)
+the pump (5) :: to (6) receive (7) :: pressurized exterminating liquid (8)
+pressurized exterminating liquid (8) :: drawn (9) from (10) :: the reservoir (11)
+The distribution subsystem (0) :: includes (1) :: one or more branch tubes (13)
+one or more branch tubes (13) :: extending (14) throughout (15) :: the building (16)
+the building (16) :: at (17) :: a position (18)
+a position (18) :: near (19) :: the floor (20)
+each branch tube (22) :: having (23) :: a plurality (24)
+a plurality (24) :: of (25) :: outwardly directed small apertures (26)
+outwardly directed small apertures (26) :: piercing (27) :: its wall (28)
+its wall (28) :: at (29) :: intervals (30)
+intervals (30) :: along (31) :: its length (32)
+its length (32) :: to (33) effect (34) :: nozzles (35)
+exterminating liquid (39) :: is (40) dispensed (41) through (36) :: nozzles (35)
+exterminating liquid (39) :: is (40) dispensed (41) into (42) :: the inter wall space (43)
+exterminating liquid (39) :: is (40) dispensed (41) onto (45) :: the area (46)
+the wall (49) :: meet (52) at (47) :: the area (46)
+floor (51) :: meet (52) at (47) :: the area (46)
+
+
+Thus, as shown in FIG 4, the distribution subsystem may include branch passages such as the tubing so fixed, for example, to the edge of floor plate 6; i.e., outside the wall space between wall panels 1 
+the distribution subsystem (8) :: include (10) :: branch passages (11)
+branch passages (11) :: such (12) as (13) :: the tubing (14)
+the edge (22) :: of (23) :: floor plate (24)
+the tubing (14) :: fixed (16) to (21) :: the edge (22)
+the wall space (30) :: between (31) :: wall panels (32)
+
+
+The tubing 50 is provided with downwardly directed apertures 51 at intervals along its length to obtain the spray 52 into the corner at which the walls and the floor meet 
+The tubing (0) :: is (2) provided (3) with (4) :: downwardly directed apertures (5)
+downwardly directed apertures (5) :: at (7) :: intervals (8)
+intervals (8) :: along (9) :: its length (10)
+its length (10) :: to (11) obtain (12) :: the spray (13)
+the spray (13) :: into (15) :: the corner (16)
+the walls (19) :: meet (22) at (17) :: the corner (16)
+the floor (21) :: meet (22) at (17) :: the corner (16)
+
+
+A pest extermination system permanently installed in a building structure, which building structure includes adjoining walls and floors, said extermination system comprising: 
+A pest extermination system (0) :: permanently (1) installed (2) in (3) :: a building structure (4)
+which building structure (6) :: includes (7) :: adjoining walls (8)
+which building structure (6) :: includes (7) :: floors (10)
+
+
+said second timer being adapted to respond to the establishment of the commencement of each system on time to establish a period during which said pump is energized; and 
+second timer (1) :: adapted (3) to (4) respond (5) to (6) :: the establishment (7)
+the establishment (7) :: of (8) :: the commencement (9)
+the commencement (9) :: of (10) :: each system (11)
+each system (11) :: on (12) :: time (13)
+time (13) :: to (14) establish (15) :: a period (16)
+pump (20) :: is (21) energized (22) during (17) :: a period (16)
+
+
+a pressure sensor connected in line with said distribution trunk tube and adapted to sense and indicate normal and abnormal operating pressures; and 
+a pressure sensor (0) :: connected (1) in (2) :: line (3)
+line (3) :: with (4) :: said distribution trunk tube (5)
+a pressure sensor (0) :: adapted (7) to (8) sense (9) :: normal and abnormal operating pressures (12)
+a pressure sensor (0) :: adapted (7) to (8) indicate (11) :: normal and abnormal operating pressures (12)
+
+
+at least one branch passage coupled to and fed with pressurized exterminating liquid by said distribution trunk tube, said branch passage extending generally horizontally along a wall and being disposed proximate a floor adjoining the wall, said branch passage having a plurality of small generally outwardly directed apertures piercing its wall at intervals along its length to effect nozzles through which pressurized exterminating liquid is dispensed, said branch passage being integrated within a length of trim adapted to improve the appearance of the junction between the wall and the adjoining floor 
+at least one branch passage (0) :: coupled (1) to (2) :: pressurized exterminating liquid (6)
+at least one branch passage (0) :: fed (4) with (5) :: pressurized exterminating liquid (6)
+pressurized exterminating liquid (6) :: by (7) :: said distribution trunk tube (8)
+branch passage (11) :: extending (12) generally (13) horizontally (14) :: a wall (16)
+branch passage (11) :: disposed (19) :: proximate (20)
+a floor (21) :: adjoining (22) :: the wall (23)
+branch passage (26) :: having (27) :: a plurality (28)
+apertures (34) :: piercing (35) :: its wall (36)
+its wall (36) :: at (37) :: intervals (38)
+intervals (38) :: along (39) :: its length (40)
+its length (40) :: to (41) effect (42) :: nozzles (43)
+exterminating liquid (47) :: is (48) dispensed (49) through (44) :: nozzles (43)
+branch passage (52) :: integrated (54) within (55) :: a length (56)
+a length (56) :: of (57) :: trim (58)
+trim (58) :: adapted (59) to (60) improve (61) :: the appearance (62)
+the appearance (62) :: of (63) :: the junction (64)
+the junction (64) :: between (65) :: the wall (66)
+the junction (64) :: between (65) :: the adjoining floor (68)
+
+
+#################
+
+Dietetic cookie mix  - https://patents.google.com/patent/US4137336/
+
+#################
+
+A dry, dietetic cookie mix which need only to be combined with water and baked to produce a batch of cookies 
+a batch (13) :: of (14) :: cookies (15)
+A dry, dietetic cookie mix (0) :: baked (10) to (11) produce (12) :: a batch (13)
+
+
+Fructose provides natural sweetness and combines with a unique blend of other ingredients, including torula yeast, an emulsifier, stearyl monoglyceridyl citrate to produce a cookie having good texture, crispness, flavor, mouth feel and sweetness 
+Fructose (0) :: provides (1) :: natural sweetness (2)
+Fructose (0) :: combines (4) with (5) :: a unique blend (6)
+a unique blend (6) :: of (7) :: other ingredients (8)
+other ingredients (8) :: including (10) :: torula yeast (11)
+other ingredients (8) :: including (10) :: an emulsifier, stearyl monoglyceridyl citrate (13)
+an emulsifier, stearyl monoglyceridyl citrate (13) :: to (14) produce (15) :: a cookie (16)
+a cookie (16) :: having (17) :: good texture (18)
+a cookie (16) :: having (17) :: crispness (20)
+a cookie (16) :: having (17) :: flavor (22)
+a cookie (16) :: having (17) :: mouth (24)
+a cookie (16) :: having (17) :: sweetness (27)
+
+
+the non shortening portion includes torula yeast in a sufficient amount so that a cookie baked from batter formed when the dry mix is combined with water and mixed has acceptable sweetness 
+the non shortening portion (0) :: includes (1) :: torula yeast (2)
+torula yeast (2) :: in (3) :: a sufficient amount (4)
+a cookie (7) :: baked (8) from (9) :: batter (10)
+the dry mix (13) :: is (14) combined (15) with (16) :: water (17)
+
+
+#################
+
+Torque or force amplifying actuator and method for controlling actuator  - https://patents.google.com/patent/US5791228/
+
+#################
+
+The actuator is divided into two cells by a power transfer shaft to which is attached a vent follower 
+The actuator (0) :: is (1) divided (2) into (3) :: two cells (4)
+two cells (4) :: by (5) :: a power transfer shaft (6)
+a vent follower (11) :: is (9) attached (10) to (7) :: a power transfer shaft (6)
+
+
+In an equilibrium position, the vent is closed off by the vent follower 
+the vent (3) :: is (4) closed (5) off (6) by (7) :: the vent follower (8)
+the vent (3) :: In (0) :: an equilibrium position (1)
+
+
+Moving the vent location to either side of the vent follower causes fluid or gas to escape from one or the other cell 
+the vent location (1) :: to (2) :: either side (3)
+either side (3) :: of (4) :: the vent (5)
+the vent (5) :: :: follower (6)
+follower (6) :: causes (7) :: fluid (8)
+follower (6) :: causes (7) :: gas (10)
+fluid (8) :: to (11) escape (12) from (13) :: the other cell (16)
+gas (10) :: to (11) escape (12) from (13) :: the other cell (16)
+
+
+In the rotary version, the vent follower operates in a wiper type fashion 
+the vent follower (3) :: In (0) :: the rotary version (1)
+the vent follower (3) :: operates (4) in (5) :: a wiper type fashion (6)
+
+
+In the linear version, the power transfer shaft is attached to a piston head 
+the power transfer shaft (3) :: In (0) :: the linear version (1)
+the power transfer shaft (3) :: is (4) attached (5) to (6) :: a piston head (7)
+
+
+The torque amplifying actuator of this invention includes an actuator housing having a cavity which is subdivided into two hydraulic or pneumatic cells 
+The torque amplifying actuator (0) :: of (1) :: this invention (2)
+The torque amplifying actuator (0) :: includes (3) :: an actuator housing (4)
+an actuator housing (4) :: having (5) :: a cavity (6)
+a cavity (6) :: is (8) subdivided (9) into (10) :: two hydraulic or pneumatic cells (11)
+
+
+Each cell is supplied by an inlet port through which fluid, in the case of a hydraulic system, or gas, in the case of a pneumatic system, is introduced into the cell 
+Each cell (0) :: is (1) supplied (2) by (3) :: an inlet port (4)
+an inlet port (4) :: through (5) :: which fluid (6)
+the case (9) :: of (10) :: a hydraulic system (11)
+the case (9) :: of (10) :: gas (14)
+the case (17) :: of (18) :: a pneumatic system (19)
+which fluid (6) :: is (21) introduced (22) into (23) :: the cell (24)
+
+
+At the equilibrium position, the vent and vent follower are in direct relation to one another 
+the vent (3) :: At (0) :: the equilibrium position (1)
+vent (5) :: :: follower (6)
+follower (6) :: At (0) :: the equilibrium position (1)
+the vent (3) :: in (8) :: direct relation (9)
+follower (6) :: in (8) :: direct relation (9)
+
+
+In that position, the vent is located at the interface of the two cells 
+the vent (3) :: In (0) :: that position (1)
+the vent (3) :: is (4) located (5) at (6) :: the interface (7)
+the interface (7) :: of (8) :: the two cells (9)
+
+
+The cell within which the vent is located begins to drain fluid or gas and a pressure differential occurs between the two cells 
+the vent (3) :: is (4) located (5) within (1) :: The cell (0)
+The cell (0) :: begins (6) to (7) drain (8) :: fluid (9)
+The cell (0) :: begins (6) to (7) drain (8) :: gas (11)
+a pressure differential (13) :: occurs (14) between (15) :: the two cells (16)
+
+
+a divider extending between said shaft and said inside surface and said top plate and bottom plate, said divider forming a seal at said inside surface and said top plate and bottom plate 
+a divider (0) :: extending (1) between (2) :: said shaft (3)
+a divider (0) :: extending (1) between (2) :: inside surface (6)
+a divider (0) :: extending (1) between (2) :: top plate (9)
+a divider (0) :: extending (1) between (2) :: bottom plate (11)
+divider (14) :: forming (15) :: a seal (16)
+
+
