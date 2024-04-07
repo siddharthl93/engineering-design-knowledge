@@ -1,15 +1,15 @@
 # Retrieval Augmented Generation using Engineering Design Knowledge
-In this document, I describe how Large-Language Models (LLMs) could be instructed to generate factual responses to support various applications in the engineering design process. 
-I put forward three scenarious as follows.
+In this document, I describe how Large-Language Models (LLMs) could be instructed to generate factual responses to support various applications in the engineering design process. I put forward three scenarious as follows.
 
  - Scenario 1: Directly asking LLM about a component or an issue.
  - Scenario 2: Provide a text document as a reference and asking LLM about a component or an issue.
  - Scenario 3: Providing design knowledge in the form of facts (entity :: relationship :: entity) as a reference.
 
-The tenet of my research is that design knowledge, when explicated as facts, could be more beneficial for interacting with LLMs and generating more meaningful responses for engineering design applications.
-The underlying method for explicating facts is described in the following paper.
+The tenet of my research is that design knowledge, when explicated as facts, could be more beneficial for interacting with LLMs and generating more meaningful responses for engineering design applications. The underlying method for explicating facts is described in the following paper.
 
 *Siddharth, L., Luo, J., 2024. Engineering Design Knowledge Graphs from Patented Artefact Descriptions for Retrieval-Augmented Generation in the Design Process. arXiv (cs.CL) https://arxiv.org/abs/2307.06985.*
+
+## Using GPT for knowledge retrieval
 
 First, let us understand how LLMs are used for generating text according to our needs. The following function could be used for interacting with GPT through API.
 ```
@@ -35,6 +35,9 @@ chat = [
 output = gpt(chat)
 print(output)
 ```
+
+## Using GPT to understand belt drives in fan systems
+
 As the code required to interact with GPT is clear, let us understand how GPT could be used and instructed with specific context.
 Here, I am focussing on the domain of fan systems and try to understand a key component and a notable issue through GPT.
 
@@ -51,9 +54,37 @@ print(gpt(chat), "\n\n")
 The above code results in the following output.
 >In fan systems, belt drives are used to transfer power from the motor to the fan shaft. A belt drive typically consists of a belt, pulleys, and a tensioning system. The motor's rotational energy is transferred to the fan shaft through the friction between the belt and the pulleys. The pulleys are usually connected by the belt and are of different sizes to create a speed differential between the motor and the fan. Tensioning systems are used to adjust the tension of the belt, ensuring proper power transmission. Belt drives are chosen for fan systems due to their efficiency, flexibility in speed adjustments, and cost-effectiveness. 
 
-The above output appears quite common-sensical and devoid of references 
+The above output appears quite common-sensical and devoid of references, lacking adequate for usage in engineering design applications. It is necessary to provide GPT with some domain context as follows.
+
+## Applying RAG to GPT for understanding belt drives in fan systems
+
 In the [work](https://arxiv.org/abs/2307.06985) referred earlier, I retrieved 4,870 patents related to fan systems and applied the proposed method in the paper to extract facts from the sentences in these.
 The extraction lead to populating over 2.9 million facts that consitute a knowledge base of fan systems.
 
-In retrieval augmented generation, context for GPT could either be portion of these patents or the facts extracted these.
+In retrieval augmented generation, context for GPT could either be portion of these patents or the facts extracted from these. Since none of the patent abstracts include the term "belt drive" and that entire patent documents cannot be given as context to GPT due to the [token limits](https://platform.openai.com/docs/models/gpt-3-5-turbo), I am giving selected facts to GPT as context.
+
+The following is a portion of the knowledge graph constructed using facts that represent belt drive. The interactive graph could be visualised in the [external link](https://fansystems.vercel.app/beltdrive).
+
+<img src="belt-drive-kg.png" width=600>
+
+As follows, I providing the facts mentioned above to GPT as context.
+
+```
+chat = [
+    {"role": "system", "content": "The context includes facts in the form - 'entity :: relationship :: entity'."},
+    {"role": "system", "content": "The output should be a single paragraph within 100 words."},
+    {"role": "user", "content": f"Provide a technical description of belt drives in fan systems based on the following context.\n\n{facts}"}
+]
+print(gpt(chat), "\n\n")
+```
+The above code results in the following output.
+>Belt drives in fan systems use a belt that is frictionally coupled to the drive shaft which rotates the fan. The belt also drives the belt-driven wheels connected by a transmission belt. The means for rotating the ring fan comprises an electric motor with a rotor, including the belt drive. It's employed in the front engine accessory drive of automotive vehicles, where the cooling fan includes a drive pulley and a belt extending around it, ensuring peak fan operating efficiency and facilitating the transfer of torque to the radial fan. The belt-driven fan characterized by low maintenance, enhanced reliability, reduced noise, and vibration, providing an efficient and reliable fan system.
+
+We can observe from the above output that GPT is able to acquire and synthesise knowledge across patents into a coherent description of belt drive. Such synthesised knowledge takes into account structures, behaviours, and functions of entities associated with belt drive. If users intend to gather more details about the associated entities, it is preferable to navigate the [knowledge graph](https://fansystems.vercel.app/beltdrive) and possibly explore knowledge graph of other entities as well.
+
+## Using GPT to understand pressure drop issue in fan systems
+
+The design process often requires addressing key issues that occur in components. It often also occurs that such issues have been previously addressed in products of similar domain and it would be useful to acquire such knowledge. In this case, let us consider a common issue "pressure drop" that is recurrent in fan systems.
+
+Since this is a common issue that is acknowledged in various public documents, let us inquire GPT regarding this issue as follows.
 
