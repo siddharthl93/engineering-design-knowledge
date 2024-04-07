@@ -1,4 +1,4 @@
-# Retrieval Augmented Generation using Engineering Design Knowledge
+# Retrieval Augmented Generation using Engineering Design Knowledge from Patents
 In this document, I describe how Large-Language Models (LLMs) could be instructed to generate factual responses to support various applications in the engineering design process. I put forward three scenarious as follows.
 
  - Scenario 1: Directly asking LLM about a component or an issue.
