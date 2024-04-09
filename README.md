@@ -4,7 +4,7 @@ Copyright - L. Siddharth, DDI, SUTD.
 
 Based on the following research:
 
-Siddharth, L., Luo, J., 2024. Engineering Design Knowledge Graphs from Patented Artefact Descriptions for Retrieval-Augmented Generation in the Design Process.
+Siddharth, L., Luo, J., 2024. Retrieval-Augmented Generation using Engineering Design Knowledge. (cs.CL)
 https://arxiv.org/abs/2307.06985
 
 ### Installation: Please run the following command in terminal.
