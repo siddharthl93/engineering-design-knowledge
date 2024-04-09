@@ -1,4 +1,4 @@
-# Retrieval Augmented Generation using Engineering Design Knowledge from Patents
+# Using engineering design knowledge from patents for retrieval-augmented generation in the design process
 In this document, I describe how Large-Language Models (LLMs) could be instructed to generate factual responses to support various applications in the engineering design process. I put forward three scenarious as follows.
 
  - Scenario 1: Directly asking LLM about a component or an issue.
@@ -7,7 +7,7 @@ In this document, I describe how Large-Language Models (LLMs) could be instructe
 
 The tenet of my research is that design knowledge, when explicated as facts, could be more beneficial for interacting with LLMs and generating more meaningful responses for engineering design applications. The underlying method for explicating facts is described in the following paper.
 
-*Siddharth, L., Luo, J., 2024. Engineering Design Knowledge Graphs from Patented Artefact Descriptions for Retrieval-Augmented Generation in the Design Process. arXiv (cs.CL) https://arxiv.org/abs/2307.06985.*
+*Siddharth, L., Luo, J., 2024. Retrieval-Augmented Generation using Engineering Design Knowledge. (cs.CL). arXiv (cs.CL) https://arxiv.org/abs/2307.06985.*
 
 ## Using GPT for knowledge retrieval
 
