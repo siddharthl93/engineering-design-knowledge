@@ -1,3 +1,9 @@
+Copyright - L. Siddharth, DDI, SUTD.
+
+Based on the following research:
+
+Siddharth, L., Luo, J., 2024. Retrieval-Augmented Generation using Engineering Design Knowledge. (cs.CL) https://arxiv.org/abs/2307.06985
+
 #################
 
 Focusing information visualization device, and corresponding method, program and recording medium  - https://patents.google.com/patent/US7978247/
