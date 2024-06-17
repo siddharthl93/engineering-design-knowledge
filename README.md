@@ -7,14 +7,6 @@ Based on the following research:
 Siddharth, L., Luo, J., 2024. Retrieval-Augmented Generation using Engineering Design Knowledge. (cs.CL)
 https://arxiv.org/abs/2307.06985
 
-### Installation: Please run the following command in terminal.
-```
-pip install design_kgex
-```
-
-Note: Please ensure spaCy 3.6 is installed. The package does not support versions 3.7 and above.
-The above command will take into account all the necessary dependencies. Please make sure the environment is running Python > 3.8.
-
 ### Usage: Please run the following code to get raw patent text as a list of formatted and cleaned sentences.
 ```
 from design_kgex import patent_text
