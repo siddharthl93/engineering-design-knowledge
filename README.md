@@ -7,7 +7,7 @@ https://arxiv.org/abs/2307.06985
 
 Copyright - L. Siddharth, Singapore University of Technology and Design, Singapore (siddharthl.iitrpr.sutd@gmail.com)
 
-In addition to this guide, we also provide a ![notebook](example-usage.ipynb).
+In addition to this guide, we also provide a [notebook](example-usage.ipynb).
 
 ### Usage: Please download the folder "design_kgex" and place it in the working directory.
 
