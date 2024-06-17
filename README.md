@@ -7,7 +7,11 @@ https://arxiv.org/abs/2307.06985
 
 Copyright - L. Siddharth, Singapore University of Technology and Design, Singapore (siddharthl.iitrpr.sutd@gmail.com)
 
-### Usage: Please run the following code to get raw patent text as a list of formatted and cleaned sentences.
+In addition to this guide, we also provide a ![notebook](example-usage.ipynb).
+
+### Usage: Please download the folder "design_kgex" and place it in the working directory.
+
+Please run the following code to get raw patent text as a list of formatted and cleaned sentences.
 ```
 from design_kgex import patent_text
 
