@@ -1,6 +1,6 @@
-# Short guide to using the design_kgex package.
+# Short guide to using the design_kgex package
 
-Copyright - L. Siddharth, DDI, SUTD.
+Copyright - L. Siddharth, Singapore University of Technology and Design, Singapore (siddharthl.iitrpr.sutd@gmail.com)
 
 Based on the following research:
 
