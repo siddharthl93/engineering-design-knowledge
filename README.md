@@ -1,11 +1,11 @@
 # Short guide to using the design_kgex package
 
-Copyright - L. Siddharth, Singapore University of Technology and Design, Singapore (siddharthl.iitrpr.sutd@gmail.com)
-
 Based on the following research:
 
 Siddharth, L., Luo, J., 2024. Retrieval-Augmented Generation using Engineering Design Knowledge. (cs.CL)
 https://arxiv.org/abs/2307.06985
+
+Copyright - L. Siddharth, Singapore University of Technology and Design, Singapore (siddharthl.iitrpr.sutd@gmail.com)
 
 ### Usage: Please run the following code to get raw patent text as a list of formatted and cleaned sentences.
 ```
