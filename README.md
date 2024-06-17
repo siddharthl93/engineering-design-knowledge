@@ -1,4 +1,4 @@
-# Short guide to using the **[design_kgex](https://pypi.org/project/design-kgex/ "design_kgex")** package that is published in PyPI.
+# Short guide to using the design_kgex package.
 
 Copyright - L. Siddharth, DDI, SUTD.
 
